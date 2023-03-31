@@ -1,1 +1,2 @@
 1. [Automatic mail sender to Employer incase of large Travel time](distance_matrix_api_usage.py) This project calculates the distance between two locations using Google maps api and sends out an mail to the employer if the work location is too far away from the home location.
+2. [Route Plotting](Route_Plotting_using_Google_Maps_Platform.ipynb) This program plots a route between two or more locations using Google maps api and displays the route.
