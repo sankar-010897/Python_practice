@@ -1,0 +1,6 @@
+You will have to get an API key for the distance matrix API from google maps platform.
+Use the link given below to set up API key:
+https://developers.google.com/maps/documentation/javascript/cloud-setup
+Once the key has been created store it an secure txt file for reading
+Also make relevant changes to employee and employer mail id.
+The employee mail id will need th epassword to be stored in seperate secure txt file.
