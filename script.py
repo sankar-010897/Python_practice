@@ -27,8 +27,8 @@ print("\n The total travel time from home to work is",time )
 #check if travel time is more than 2 Hrs
 if seconds > 7200:
     #email constraints
-    sender = "sankara.muthy@gmail.com"
-    recipient = "sankara.muthy@outlook.com"
+    sender = "employee@gmail.com"
+    recipient = "employer@gmail.com"
     subject = "Sick Day"
 
     #format email
